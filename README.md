@@ -225,11 +225,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e152f00-ad8f-41a6-9047-2e6a7cf3f575" />
 
-
 **Object Not Detected**
 
 <img width="400" height="500" alt="WhatsApp Image 2026-08-14 at 8 46 33 AM" src="https://github.com/user-attachments/assets/6012ab64-6393-4228-89d9-88248ff7d7bb" />
-
 
 ## Result
 
