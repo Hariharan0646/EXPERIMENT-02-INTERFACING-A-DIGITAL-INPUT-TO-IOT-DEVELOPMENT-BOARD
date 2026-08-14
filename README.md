@@ -223,7 +223,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 **Object Detected** 
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e152f00-ad8f-41a6-9047-2e6a7cf3f575" />
+<img src="https://github.com/user-attachments/assets/3916f254-952c-4a48-82d7-3d206c16132d" width="800">
 
 **Object Not Detected**
 
